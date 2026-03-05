@@ -51,7 +51,7 @@ credit-risk-prediction/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/yourusername/credit-risk-prediction.git
+git clone [https://github.com/yourusername/credit-risk-prediction.git](https://github.com/iamankan221/Machine-Learning-Based-Credit-Risk-Analysis-and-Web-Application.git)
 cd credit-risk-prediction
 ```
 

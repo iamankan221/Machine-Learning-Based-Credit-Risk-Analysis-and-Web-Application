@@ -135,7 +135,7 @@ Users input applicant details and click **Predict Risk** to get the result:
 
 * M.Tech in Data Science
 * 4+ years experience in Operations & Data Analysis
-* Skills: SQL | Python | Machine Learning | Tableau | Dashboarding
+* Skills: SQL | Python | Machine Learning | Power-BI | Dashboarding
 
 ---
 

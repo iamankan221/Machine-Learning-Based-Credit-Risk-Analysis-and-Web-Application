@@ -51,8 +51,8 @@ credit-risk-prediction/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone [https://github.com/iamankan221/Machine-Learning-Based-Credit-Risk-Analysis-and-Web-Application.git
-cd credit-risk-prediction]
+git clone https://github.com/iamankan221/Machine-Learning-Based-Credit-Risk-Analysis-and-Web-Application.git
+cd credit-risk-prediction
 ```
 
 ### 2️⃣ Create Virtual Environment (Optional but Recommended)
